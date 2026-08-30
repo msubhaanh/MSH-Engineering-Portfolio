@@ -52,6 +52,7 @@ Electronics & Digital Systems
 
 Hardware Description Languages
 
+* Python
 * Verilog
 * SystemVerilog
 
