@@ -1,213 +1,199 @@
-# MSH-Engineering-Portfolio
+# MSH Engineering Portfolio
+
 Welcome to my engineering portfolio.
 
-This repository documents my progression through electrical and electronic engineering, with a particular focus on digital systems, hardware design, embedded systems, computer architecture, and semiconductor technology.
+This repository documents my progression through Electrical and Electronic Engineering, with a focus on electronics, digital systems, embedded systems, digital hardware, computer architecture, and semiconductor technology.
 
-It contains projects, experiments, coursework-related work, technical exercises, and documentation developed throughout my studies.
+It contains practical projects, experiments, technical exercises, simulations, coursework-related work, and design projects developed throughout my studies.
 
----
-
-About Me
-
-I am an Electrical and Electronic Engineering student developing a broad foundation across both electronic hardware and digital engineering.
-
-My interests include designing and understanding digital systems, developing hardware using HDL, working with microprocessors and embedded systems, and exploring the technologies used to build modern computing hardware.
-
-I am building my skills progressively through practical projects, starting with fundamental electronics and digital logic and progressing towards more complex systems involving RTL design, FPGA development, computer architecture, verification, and ASIC/SoC technologies.
+The portfolio is intended to show not only the final result of each project, but also the engineering process, design decisions, implementation, testing, problems encountered, and lessons learned.
 
 ---
 
-Areas of Interest
+## About Me
 
-* Digital Electronics
-* Digital Logic Design
-* Digital Hardware
-* RTL Design
-* FPGA Development
-* Embedded Systems
-* Microprocessors & Microcontrollers
-* Computer Architecture
-* Processor Design
-* RISC-V
-* Hardware Verification
-* ASIC & SoC Technologies
-* Semiconductor Design
+I am studying an MEng in Electrical and Electronic Engineering at De Montfort University.
+
+I am developing a broad foundation across electronics, digital engineering, embedded systems, programming, and computer hardware.
+
+My interests include designing and understanding electronic and digital systems, developing hardware using HDL, programming microcontrollers and embedded systems, and exploring the architecture and technologies behind modern computing hardware.
+
+I am developing these skills progressively through practical projects, starting with fundamental electronics and digital logic and progressing towards more complex systems involving RTL design, FPGA development, computer architecture, processor design, verification, and semiconductor technologies.
 
 ---
 
-Technical Skills
+## Areas of Interest
 
-Electronics & Digital Systems
-
-* Circuit Fundamentals
-* Digital Electronics
-* Boolean Algebra
-* Logic Gates
-* Combinational Logic
-* Sequential Logic
-* Finite State Machines
-* Registers & Counters
-* Memory Systems
-* Communication Interfaces
-
-Hardware Description Languages
-
-* Python
-* Verilog
-* SystemVerilog
-
-Computer Architecture
-
-* Digital Computer Systems
-* CPU Architecture
-* Datapaths
-* Control Units
-* Memory Architecture
-* Pipelining
-* RISC-V
-
-FPGA & Hardware Development
-
-* RTL Implementation
-* FPGA Design
-* Simulation
-* Synthesis
-* Timing Analysis
-* Hardware Testing
-
-Software & Development Tools
-
-* Git
-* GitHub
-* Linux
-* Quartus
-* ModelSim / Questa
-* Vivado
-* EDA Tools
-
-Developing Knowledge
-
-* RTL Verification
-* SystemVerilog Verification
-* Logic Synthesis
-* Static Timing Analysis
-* ASIC Design Flow
-* Physical Design
-* SoC Architecture
+- Electrical & Electronic Engineering
+- Digital Electronics
+- Digital Logic Design
+- Digital Hardware
+- Embedded Systems
+- Microprocessors & Microcontrollers
+- Hardware Description Languages
+- RTL Design
+- FPGA Development
+- Computer Architecture
+- Processor Design
+- RISC-V
+- Hardware Verification
+- ASIC & SoC Technologies
+- Semiconductor Design
+- Hardware/Software Integration
 
 ---
 
-Projects
+## Technical Skills
 
-| Project                  | Area                  | Technology    | Status      |
-| ------------------------ | --------------------- | ------------- | ----------- |
-| Digital Logic Projects   | Digital Design        | Verilog       | In Progress |
-| ALU Design               | Digital Hardware      | Verilog       | Planned     |
-| Register File            | Digital Hardware      | Verilog       | Planned     |
-| FIFO Design              | RTL                   | Verilog       | Planned     |
-| UART Controller          | Digital / FPGA        | Verilog       | Planned     |
-| SPI Controller           | Digital / FPGA        | Verilog       | Planned     |
-| CPU Design               | Computer Architecture | Verilog       | Planned     |
-| RISC-V Processor         | Computer Architecture | SystemVerilog | Planned     |
-| FPGA System              | FPGA / Embedded       | HDL           | Planned     |
-| RTL Verification Project | Verification          | SystemVerilog | Planned     |
-| RTL-to-GDSII Project     | Semiconductor Design  | EDA Tools     | Planned     |
+### Electronics & Digital Systems
+
+- Circuit Fundamentals
+- Electronic Components
+- Analogue Electronics
+- Digital Electronics
+- Boolean Algebra
+- Logic Gates
+- Combinational Logic
+- Sequential Logic
+- Finite State Machines
+- Registers & Counters
+- Memory Systems
+- Communication Interfaces
+- Sensors & Actuators
+- Circuit Simulation
+- Hardware Prototyping
+- Testing & Debugging
+
+### Programming
+
+- Python
+- C
+- C++
+- Programming Fundamentals
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Automation & Scripting
+- Embedded Programming
+
+### Hardware Description Languages
+
+- Verilog
+- SystemVerilog
+- RTL Design
+- Hardware Modelling
+- Testbenches
+- Digital Logic Implementation
+
+### Computer Architecture
+
+- Digital Computer Systems
+- CPU Architecture
+- Datapaths
+- Control Units
+- Instruction Sets
+- Memory Architecture
+- Registers
+- Pipelining
+- Caches
+- RISC-V
+- Processor Design
+
+### FPGA & Digital Hardware Development
+
+- RTL Implementation
+- FPGA Design
+- Simulation
+- Synthesis
+- Timing Analysis
+- Hardware Testing
+- Digital System Integration
+
+### Software & Development Tools
+
+- Git
+- GitHub
+- Linux
+- Quartus
+- ModelSim / Questa
+- Vivado
+- Tinkercad
+- EDA Tools
+- Command Line / Terminal
+
+### Developing Knowledge
+
+- RTL Verification
+- SystemVerilog Verification
+- Logic Synthesis
+- Static Timing Analysis
+- FPGA Architecture
+- ASIC Design Flow
+- Physical Design
+- RTL-to-GDSII
+- SoC Architecture
+- Hardware/Software Co-Design
 
 ---
 
-Learning Progression
+## Projects
+
+| Project | Area | Technology | Status |
+|---|---|---|---|
+| Control & Server Room Monitoring System | Embedded Systems / Electronics | Arduino, C++ | Complete / Improving |
+| Sustainable Smart Lighting System | Embedded Systems / Electronics | Arduino, C++ | Complete / Improving |
+| Digital Logic Projects | Digital Design | Verilog | In Progress |
+| ALU Design | Digital Hardware | Verilog | Planned |
+| Register File | Digital Hardware | Verilog | Planned |
+| FIFO Design | RTL | Verilog | Planned |
+| UART Controller | Digital / FPGA | Verilog | Planned |
+| SPI Controller | Digital / FPGA | Verilog | Planned |
+| CPU Design | Computer Architecture | Verilog | Planned |
+| RISC-V Processor | Computer Architecture | SystemVerilog | Planned |
+| FPGA Digital System | FPGA / Embedded | HDL, C/C++ | Planned |
+| RTL Verification Project | Verification | SystemVerilog | Planned |
+| RTL-to-GDSII Project | Semiconductor Design | EDA Tools | Planned |
+| SoC-Based Project | Digital Hardware / Embedded | HDL, C/C++ | Planned |
+
+---
+
+## Learning Progression
 
 My projects are designed to progressively increase in complexity:
 
+```text
 Engineering Mathematics & Fundamentals
-↓
+                ↓
 Electrical & Electronic Fundamentals
-↓
+                ↓
 Digital Electronics
-↓
+                ↓
 Digital Logic
-↓
-Verilog HDL
-↓
-RTL Design
-↓
-Simulation & Verification
-↓
-Computer Architecture
-↓
-Processor Design
-↓
-RISC-V
-↓
-FPGA Development
-↓
-ASIC Design & Semiconductor Technology
-↓
-SoC Architecture
-
----
-
-Currently Learning
-
-* Digital Logic Design
-* Verilog HDL
-* RTL Design
-* Electronics Fundamentals
-* Computer Architecture
-* FPGA Development
-* Git & GitHub
-* Linux
-
----
-
-Planned Projects
-
-* [ ] Digital Logic Design Projects
-* [ ] ALU
-* [ ] Register File
-* [ ] Counters & Timers
-* [ ] FIFO
-* [ ] UART
-* [ ] SPI Controller
-* [ ] Memory Controller
-* [ ] CPU
-* [ ] Pipelined CPU
-* [ ] RISC-V Processor
-* [ ] FPGA-Based Digital System
-* [ ] SystemVerilog Verification Environment
-* [ ] RTL-to-GDSII ASIC Flow
-* [ ] SoC-Based Project
-
----
-
-Project Documentation
-
-Each major project is documented with a focus on the engineering process, including:
-
-* Project objectives
-* Requirements
-* System architecture
-* Design methodology
-* Schematics / block diagrams
-* HDL implementation
-* Simulation
-* Verification
-* Synthesis
-* Hardware implementation where applicable
-* Results
-* Problems encountered
-* Solutions
-* Lessons learned
-* Future improvements
-
-The aim is to document not only what was built, but also why it was designed that way and what was learned from the process.
-
----
-
-Portfolio Goal
-
-The purpose of this portfolio is to demonstrate the development of my practical engineering skills through progressively more complex hardware and digital systems projects.
-
-Rather than simply collecting completed projects, I aim to document the **learning process, engineering decisions, implementation, testing, and results** behind each project.
-
----
+                ↓
+Programming Fundamentals
+        ┌───────┴───────┐
+        ↓               ↓
+      Python           C/C++
+        │               │
+        └───────┬───────┘
+                ↓
+           Verilog HDL
+                ↓
+            RTL Design
+                ↓
+       Simulation & Verification
+                ↓
+        Computer Architecture
+                ↓
+          Processor Design
+                ↓
+             RISC-V
+                ↓
+         FPGA Development
+                ↓
+    Advanced Verification
+                ↓
+      ASIC Design & EDA Flow
+                ↓
+       Semiconductor Design
+                ↓
+          SoC Architecture
