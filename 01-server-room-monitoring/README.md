@@ -154,57 +154,26 @@ Add your public Tinkercad circuit link below.
 Recommended simulation evidence:
 
 ### Low temperature
-
+---
 ![Temperature_Low](Simulation/temperature_low.png)
-
-Save as:
-
-```text
-Simulation/temperature_low.png
-```
-
+---
 ### Normal temperature
-
-Show the warning outputs inactive.
-
-Save as:
-
-```text
-Simulation/temperature_normal.png
-```
-
+---
+![Temperature_Normal](Simulation/temperature_normal.png)
+---
 ### High temperature
-
-Show the temperature at or above 24°C with the red LED and buzzer active.
-
-Save as:
-
-```text
-Simulation/temperature_high.png
-```
-
-### Movement detection
-
-Show the PIR input activated and the lighting outputs active.
-
-Save as:
-
-```text
-Simulation/occupancy_detected.png
-```
-
-### Door activity
-
-Show the reed switch activated and the door indicator responding.
-
-Save as:
-
-```text
-Simulation/door_activity.png
-```
-
+---
+![Temperature_High](Simulation/temperature_high.png)
 ---
 
+### Movement detection
+---
+![Occupancy_Detected](Simulation/occupancy_detected.png)
+---
+### Door activity
+---
+![Door_Activity](Simulation/door_activity.png)
+---
 ## Source Code
 
 Current Version 1 code:
