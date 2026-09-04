@@ -172,7 +172,7 @@ Recommended simulation evidence:
 ---
 ### Door activity
 ---
-![Door_Activity](Simulation/door_activity.png)
+![Door_Activity](Simulation/door.activity.png)
 ---
 ## Source Code
 
