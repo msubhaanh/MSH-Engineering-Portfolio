@@ -1,0 +1,138 @@
+# Physical & Simulation Test Results
+
+## How to use this file
+
+Complete this document as the project is tested.
+
+Do not invent results. Record the actual measured behaviour.
+
+---
+
+## Test Summary
+
+| ID | Test | Expected Result | Actual Result | Pass/Fail |
+|---|---|---|---|---|
+| T01 | Temperature <= 18°C | Blue LED + buzzer | | |
+| T02 | Temperature 19–23°C | Warning outputs OFF | | |
+| T03 | Temperature >= 24°C | Red LED + buzzer | | |
+| T04 | PIR detects movement | Lighting outputs activate | | |
+| T05 | No movement | Lighting outputs return LOW | | |
+| T06 | Reed switch active | Door LED responds | | |
+
+---
+
+## T01 — Low Temperature
+
+**Condition:** Temperature at or below 18°C
+
+**Expected:**
+- Blue LED ON
+- Red LED OFF
+- Buzzer ON
+
+**Actual:**
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+## T02 — Normal Temperature
+
+**Condition:** 19–23°C
+
+**Expected:**
+- Blue LED OFF
+- Red LED OFF
+- Buzzer OFF
+
+**Actual:**
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+## T03 — High Temperature
+
+**Condition:** Temperature at or above 24°C
+
+**Expected:**
+- Red LED ON
+- Blue LED OFF
+- Buzzer ON
+
+**Actual:**
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+## T04 — PIR Detection
+
+**Condition:** Movement presented to PIR sensor
+
+**Expected:** Lighting outputs activate.
+
+**Actual:**
+
+**Result:** PASS / FAIL
+
+**Detection distance:**
+
+**Notes:**
+
+---
+
+## T05 — Lighting Timing
+
+**Condition:** PIR activated
+
+**Expected:** Lighting remains active for approximately 20 seconds according
+to the current program.
+
+**Measured duration:**
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+## T06 — Reed Switch
+
+**Condition:** Reed switch activated.
+
+**Expected:** Door indicator responds with approximately one-second ON/OFF
+timing.
+
+**Actual:**
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+## Engineering Observations
+
+Record unexpected behaviour here.
+
+Examples:
+
+- Sensor false triggers
+- Incorrect temperature readings
+- Delays affecting other sensors
+- Wiring problems
+- LED brightness differences
+- Buzzer behaviour
+
+---
+
+## Improvements Identified
+
+After testing, record what should change in the next version.
