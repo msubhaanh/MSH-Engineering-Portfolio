@@ -160,7 +160,7 @@ Show the temperature at or below 18°C with the blue LED and buzzer active.
 Save as:
 
 ```text
-simulation/temperature_low.png
+Simulation/temperature_low.png
 ```
 
 ### Normal temperature
@@ -170,7 +170,7 @@ Show the warning outputs inactive.
 Save as:
 
 ```text
-simulation/temperature_normal.png
+Simulation/temperature_normal.png
 ```
 
 ### High temperature
@@ -180,7 +180,7 @@ Show the temperature at or above 24°C with the red LED and buzzer active.
 Save as:
 
 ```text
-simulation/temperature_high.png
+Simulation/temperature_high.png
 ```
 
 ### Movement detection
@@ -190,7 +190,7 @@ Show the PIR input activated and the lighting outputs active.
 Save as:
 
 ```text
-simulation/occupancy_detected.png
+Simulation/occupancy_detected.png
 ```
 
 ### Door activity
@@ -200,7 +200,7 @@ Show the reed switch activated and the door indicator responding.
 Save as:
 
 ```text
-simulation/door_activity.png
+Simulation/door_activity.png
 ```
 
 ---
