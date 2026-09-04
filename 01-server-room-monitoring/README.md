@@ -147,9 +147,7 @@ one second and then off for approximately one second.
 
 ## Tinkercad Simulation
 
-Add your public Tinkercad circuit link below.
-
-**Tinkercad:** `PASTE_YOUR_TINKERCAD_LINK_HERE`
+**Tinkercad:** 'https://www.tinkercad.com/things/272QdohaoKR-temp-monitor-system`
 
 Recommended simulation evidence:
 
