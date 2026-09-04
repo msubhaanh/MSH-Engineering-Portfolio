@@ -140,13 +140,7 @@ one second and then off for approximately one second.
 ---
 
 ## Circuit Schematic
-
-Place the Tinkercad schematic export here:
-
-```text
-schematic/server_room_monitoring_schematic.png
-```
-
+---
 ![Server room monitoring schematic](Schematic/server_room_monitoring_schematic.png)
 
 ---
