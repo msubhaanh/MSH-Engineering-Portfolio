@@ -147,7 +147,7 @@ Place the Tinkercad schematic export here:
 schematic/server_room_monitoring_schematic.png
 ```
 
-![Server room monitoring schematic](schematic/server_room_monitoring_schematic.png)
+![Server room monitoring schematic](Schematic/server_room_monitoring_schematic.png)
 
 ---
 
