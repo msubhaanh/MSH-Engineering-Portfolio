@@ -155,7 +155,7 @@ Recommended simulation evidence:
 
 ### Low temperature
 
-Show the temperature at or below 18°C with the blue LED and buzzer active.
+![Temperature_Low](Simulation/temperature_low.png)
 
 Save as:
 
