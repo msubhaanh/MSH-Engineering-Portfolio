@@ -215,7 +215,7 @@ simulation/door_activity.png
 
 Current Version 1 code:
 
-[src/server_room_monitoring_code](src/server_room_monitoring_code)
+[Src/server_room_monitoring_code](Src/server_room_monitoring_code)
 
 ---
 
